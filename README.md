@@ -4,6 +4,9 @@
 
 ## GAMEMDB - The GA Mongoose Express Movie Database (this name still needs work)
 
+
+<img src="https://www.raisingedmonton.com/wp-content/uploads/2020/06/Depositphotos_175956732_l-2015.jpg"/>
+
 For this lab we are going to create our own backend server! 
 
 1) Run your necessary installations to get the necessary files and folders for Mongoose and Express, then mkdir and touch the additional ones you will need. Feel free to look back at previous lessons to see what these will entail. You are _not_ expected to memorize every step of the process so far!
