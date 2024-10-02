@@ -51,7 +51,7 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 - AAU I want to sort my reviews by ascending or descending order
 - AAU I want to sort my movies by newest or oldest
 - AAU I want an error message to display if I search for an Actor, Movie, or Review with an incorrect ID
-- AAU I want to Create, Update, and Delete my Actors, Movies, and Reviews using either ThunderClient or a query.js file
+- AAU I want to Create, Update, and Delete my Actors, Movies, and Reviews using a query.js file
 
 
 ### Bonus II
@@ -59,5 +59,3 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 - AAU I want a Front End page that will allow me to pull, log, and render this information on screen using the Axios library to a url of localhost:3001 with all of our respective routes and endpoints
 - As A Picky and Opinionated User I also want this page to have some style to it!
 
-### Bonus III
-- If you've gotten this far, we have a real challenge for you... use the Axios library to give your front end full CRUD as well!
