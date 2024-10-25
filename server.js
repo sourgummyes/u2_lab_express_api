@@ -19,5 +19,5 @@ app.get('/', (req, res) =>{
 
 
 app.get('/movies', moviesController.getAllMovies)
-// app.get('/reviews', moviesController.getAllReviews)
-// app.get('/actors', moviesController.getAllActors)
+app.get('/reviews', moviesController.getAllReviews)
+app.get('/actors', moviesController.getAllActors)

@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 mongoose
-  .connect('mongodb://127.0.0.1:27017/moviessDatabase') 
+  .connect('mongodb://127.0.0.1:27017/moviezDatabase') 
   .then(() => {
     console.log('connected to MongoDB.')
   })
