@@ -19,5 +19,8 @@ app.get('/', (req, res) =>{
 
 
 app.get('/movies', moviesController.getAllMovies)
+app.get('/movies/id/:id', moviesController.getMovieById)
 app.get('/reviews', moviesController.getAllReviews)
+app.get('/reviews/id/:id', moviesController.getReviewById)
 app.get('/actors', moviesController.getAllActors)
+app.get('/actors/id/:id', moviesController.getActorById)
